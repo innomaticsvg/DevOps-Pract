@@ -1,1 +1,2 @@
-this file is created for dev branch
+this file is created for dev branch.
+git push --all origin
