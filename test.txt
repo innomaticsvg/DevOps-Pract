@@ -2,3 +2,4 @@ DevOps
 create Repository
 clone
 add files
+git add -a
